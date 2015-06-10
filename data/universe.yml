@@ -1,2 +1,3 @@
-## YAML Template.
----
+- { name: "stars", count: "123" }
+- { name: "galactiks", count: "456" }
+- { name: "planets", count: "789" }
